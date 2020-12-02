@@ -31,3 +31,9 @@
 - run the init_script in database folder to create tables and data
   ```source <your path to the script>```
   
+On mac, you can also start with
+`brew install mysql`
+`mysql_secure_installation`
+`mysql -u root -p`
+
+
